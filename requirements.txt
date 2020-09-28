@@ -13,5 +13,5 @@ pandas
 flasgger
 streamlit
 Pillow
-rdkit.Chem
-Chem.Descriptors
+Chem
+Descriptors
